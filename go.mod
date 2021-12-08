@@ -1,3 +1,3 @@
-module github.com/erkkah/margaid
+module github.com/Takadimi/margaid
 
 go 1.13
